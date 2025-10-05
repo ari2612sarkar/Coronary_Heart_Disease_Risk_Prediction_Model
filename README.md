@@ -22,7 +22,6 @@ The dataset contains patient information including:
 ```
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── data/
 │   └── framingham.csv
 ├── notebooks/
